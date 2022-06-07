@@ -1,4 +1,4 @@
-# Loops & Iterators
+#Loops & Iterators
 
 score = input("Enter Score: ")
 s =  float(score)
